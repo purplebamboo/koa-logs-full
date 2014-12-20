@@ -1,4 +1,4 @@
-koa-logs-full
+koa-logs-full[![Build Status](https://travis-ci.org/purplebamboo/koa-logs-full.svg?branch=master)](https://travis-ci.org/purplebamboo/koa-logs-full)
 =================
 
 为什么要再造个轮子？
