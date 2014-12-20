@@ -18,10 +18,15 @@ nodejs是单进程单线程模型，跟php，ruby这些不同，nodejs所有的�
 
 ## Installation
 
-`npm install koa-logs-full --save`
+```
+npm install koa-logs-full --save
+```
 
 ## Test
-`npm test`
+
+```
+npm test
+```
 
 
 ## example
