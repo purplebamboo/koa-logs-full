@@ -43,6 +43,7 @@ app.use(logRecord(app,{
 //使用时：
 
 app.use(function*(next){
+  //任何能够拿到context的地方都可以使用
   this.logger.log("我是要输出的文本");
   //也可以使用error,warn,info.在终端输出的颜色会不同
 })
