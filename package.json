@@ -1,6 +1,6 @@
 {
   "name": "koa-logs-full",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "仿照rails风格的轻量log库，可以按rails的log风格记录请求日志。可以很好的解决nodejs由于单进程导致的日志串起来的问题。",
   "main": "index.js",
   "keywords": [
