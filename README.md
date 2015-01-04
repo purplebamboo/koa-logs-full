@@ -57,6 +57,7 @@ app.use(function*(next){
 * logdir 日志目录
 * env 环境类型，默认为development。程序会自动在日志目录下以`环境名+日期+.log`打出日志。只有development的时候会输出日志到终端。
 * exportGlobalLogger 是否暴露logger对象到全局。默认为true。这样可以在任何地方调用logger.log等方法。
+* skipStatic是否跳过静态资源的记录。默认为true不记录静态资源的请求。
 
 ## 注意事项
 
